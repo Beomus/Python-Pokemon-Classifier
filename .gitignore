@@ -1,0 +1,4 @@
+.vscode/
+dataset/
+lb.pickle
+pokedex.model
