@@ -13,4 +13,4 @@ Simple Pokemon classifier with Python, OpenCV, and Keras
 
 ## Limitation
 - Since it was only trained on 5 types of Pokemon _(Bulbasaur, Charmander, Pikachu, Mewtwo, Squirtle)_ as of now so it cannot be used to classify all Pokemons
-- The model is a very limited CNN model so the accuracy is not very high, please consider training on a bigger dataset (this model was trained on roughly **1000 images in total**) or load a better pre-trained model.
+- The model is a very limited CNN model so the accuracy is not very high, please consider training on a bigger dataset (this model was trained on roughly **1000 images in total**) or loading a better pre-trained model.
